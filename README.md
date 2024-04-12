@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Freelancer**
 
-- 👨‍💻 All of my projects are available at [a, a, a](a, a, a)
-
 - 💬 Ask me about **react, Node**
 
 - 📫 How to reach me **jeeltadhani3@gmail.com**
